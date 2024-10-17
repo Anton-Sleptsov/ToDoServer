@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoServer", "ToDoServer\ToDoServer.csproj", "{7A5B9CEF-3E00-4D72-9602-C0C01DBBB32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoServer.Data", "ToDoServer.Data\ToDoServer.Data.csproj", "{DB1AF620-E970-40BC-9D95-36A2DD8162D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5B9CEF-3E00-4D72-9602-C0C01DBBB32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5B9CEF-3E00-4D72-9602-C0C01DBBB32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5B9CEF-3E00-4D72-9602-C0C01DBBB32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5B9CEF-3E00-4D72-9602-C0C01DBBB32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1AF620-E970-40BC-9D95-36A2DD8162D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1AF620-E970-40BC-9D95-36A2DD8162D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1AF620-E970-40BC-9D95-36A2DD8162D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1AF620-E970-40BC-9D95-36A2DD8162D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F6B89A-7904-41C5-94C1-3D5A6925F901}
+	EndGlobalSection
+EndGlobal
